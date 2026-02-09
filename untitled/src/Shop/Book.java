@@ -1,6 +1,7 @@
 package Shop;
 
 public class Book extends Product {
+
     private String author;
     private String title;
     public Book(String name, int price, String title,String author){
