@@ -35,6 +35,7 @@ public class MenuHandler {
                     break;
                 case 3:
                     handleStudentLogin();
+
                     break;
                 case 4:
                     displayStaffLoginMenu();
